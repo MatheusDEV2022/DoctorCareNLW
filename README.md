@@ -1,5 +1,5 @@
 # DoctorCareNLW
-Página de Captura aplicando os conceitos de HTML5 | CSS3 | JavaScript de forma responsiva. 
+Página de Captura aplicando HTML5 | CSS3 | JavaScript de forma responsiva no evento NLW da RocketSeat.  
 
 
 Deploy: https://matheusdev2022.github.io/DoctorCareNLW/
